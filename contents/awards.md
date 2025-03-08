@@ -1,4 +1,4 @@
-<p style="color:blue; font-weight:bold;">Sep 2022– Present</p>  
+**Sep 2022– Present**
 Xi’an, China
 
 
