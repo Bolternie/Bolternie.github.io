@@ -1,5 +1,3 @@
-## Research Experience
-
 ### Freshman Year
 **Research Training**
 - Conducted research at the State Key Laboratory of Electrical Insulation and Power Equipment.
