@@ -1,7 +1,6 @@
 **Sep 2022– Present**
 Xi’an, China
 
-
 **Oct 2022**: 6th Place (86 participants) in English Debate Competition, Xi'an Jiaotong University Golden Autumn Foreign Language Festival  
 
 **May 2023**: National Grand Prize, National English Competition for College Students (NECCS)  
