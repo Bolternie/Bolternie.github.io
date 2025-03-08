@@ -98,6 +98,8 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link me-lg-3" href="#awards">AWARDS</a>
+                    <li class="nav-item">
+                        <a class="nav-link me-lg-3" href="#research">RESEARCH</a>
                     </li>
 
                 </ul>
@@ -160,7 +162,7 @@
     <!-- Awards -->
      
     <!-- Research Experience -->
-    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="research">
+    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="research">
         <div class="container px-5">
             <header>
                 <h2 id="research-experience-subtitle" class="blue-text"><i class="bi bi-flask"></i>Research Experience</h2>
@@ -182,6 +184,26 @@
             </div>
         </div>
     </footer>
+
+    <script>
+        // 确保在页面加载时加载research.md
+        window.addEventListener('DOMContentLoaded', (event) => {
+            // 其他部分的加载代码...
+            
+            // 新增research部分加载
+            loadMarkdownSection('research-md', 'static/md/research.md');
+        });
+
+        // 假设已有的Markdown加载函数
+        function loadMarkdownSection(elementId, mdFile) {
+            fetch(mdFile)
+                .then(response => response.text())
+                .then(text => {
+                    document.getElementById(elementId).innerHTML = marked.parse(text);
+                    MathJax.typeset();
+                });
+        }
+    </script>
 
 </body>
 
