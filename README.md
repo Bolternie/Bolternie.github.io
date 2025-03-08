@@ -18,8 +18,6 @@ If my work resonates with you, don’t hesitate to:
 
 📧 Email me (find my contact on my homepage)
 
-💬 Open a GitHub discussion [here](https://github.com/Bolternie/Bolternie.github.io/discussions)
-
 Looking forward to exchanging ideas and growing together!
 
 🚀 Happy exploring,  
