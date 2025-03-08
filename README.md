@@ -8,7 +8,9 @@ I regularly share small research wins, updates, and curious findings—everythin
 
 ### What you’ll find here:
 🔬 **Latest projects** – Dive into my research areas and current explorations.
+
 📝 **Research notes** – Informal updates, code snippets, and methodological experiments.
+
 💡 **Open discussions** – Got questions or suggestions? Let’s chat! I’m always excited to collaborate or geek out over niche topics.
 
 ### Let’s connect!
