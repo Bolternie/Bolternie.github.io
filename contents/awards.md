@@ -1,5 +1,6 @@
-<p style="color:blue; font-weight:bold;">**Sep 2022**– Present</p>  
+<p style="color:blue; font-weight:bold;">Sep 2022– Present</p>  
 Xi’an, China
+
 
 **Oct 2022**: 6th Place (86 participants) in English Debate Competition, Xi'an Jiaotong University Golden Autumn Foreign Language Festival  
 
