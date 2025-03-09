@@ -6,6 +6,8 @@ She is currently pursuing a Bachelor's Degree in Electrical Engineering at the S
 <yuyue2022@stu.xjtu.edu.cn>
 
 #### Education
+![Xi'an Jiaotong University](../../static/assets/img/XJTU.png) 
+
 B.E., Electrical Engineering, Xi'an Jiaotong University, 2022—2026 (expected).
 
 - GPA: 4.06/4.3
@@ -20,5 +22,4 @@ Power Electronics
 #### Test Scores
 - TOEFL: 105 (Speaking: 22, Reading: 27, Listening: 30, Writing: 26)
 - GRE: 336 + 3.5 (Verbal: 166/170, Quantitative: 170/170)
-
 
