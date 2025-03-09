@@ -6,7 +6,9 @@ She is currently pursuing a Bachelor's Degree in Electrical Engineering at the S
 <yuyue2022@stu.xjtu.edu.cn>
 
 #### Education
-<img src="../../static/assets/img/XJTU.png" width="20%" alt="Xi'an Jiaotong University">
+<a href="https://www.xjtu.edu.cn/" target="_blank">
+    <img src="../../static/assets/img/XJTU.png" width="20%" alt="Xi'an Jiaotong University">
+</a>
 
 B.E., Electrical Engineering, Xi'an Jiaotong University, 2022—2026 (expected).
 
