@@ -1,5 +1,5 @@
 ### Freshman Year
-<img src="../../static/assets/img/electriclab.png" width="30%" alt="Electric Lab">
+<img src="../../static/assets/img/electriclab.png" width="20%" alt="Electric Lab">
 
 **Research Training**: During my freshman year, I conducted research at **the State Key Laboratory of Electrical Insulation and Power Equipment**, where I prepared pure epoxy resin and measured space charge using the pulsed electro-acoustic method. Additionally, I investigated the influence of biaxially oriented polypropylene film processing factors on energy storage characteristics.
 
