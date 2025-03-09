@@ -1,25 +1,17 @@
 ### Freshman Year
-**Research Training**
-- Conducted research at the State Key Laboratory of Electrical Insulation and Power Equipment.
+<img src="../../img/electriclab.png" width="10%" alt="Electric Lab">
 
-- Prepared pure epoxy resin.
-
-- Measured space charge using the pulsed electro-acoustic method.
-
-- Investigated the influence of biaxially oriented polypropylene film processing factors on energy storage characteristics.
+**Research Training**: During my freshman year, I conducted research at **the State Key Laboratory of Electrical Insulation and Power Equipment**, where I prepared pure epoxy resin and measured space charge using the pulsed electro-acoustic method. Additionally, I investigated the influence of biaxially oriented polypropylene film processing factors on energy storage characteristics.
 
 ### Sophomore Year
-**Summer Research**
-- Conducted research at the Institute of Biomechanics and Biomedical Engineering (BEBC).
+<img src="../../img/BEBC1.png" width="10%" alt="BEBC">
 
-- Independently developed a breathable material for EGaIn electrodes.
-
-- Validated its feasibility for ECG and EMG.
+**Summer Research**: In the summer of my sophomore year, I conducted research at **the Institute of Biomechanics and Biomedical Engineering (BEBC)**, where I independently developed a breathable material for EGaIn electrodes on cloth and validated its feasibility for ECG and EMG applications.
 
 ### Junior Year
-**Project Leader**
-- Led a project on intelligent video monitoring of traffic targets using the Huawei Atlas 200DK board.
+**Project Leader**: As a project leader in my junior year, I led a project focused on intelligent video monitoring of traffic targets using the Huawei Atlas 200DK board, which involved both coordination and technical execution.
 
 ### Current
-**Project Leader**
-- Leading a Huawei-sponsored college student innovation and entrepreneurship project on intelligent recognition and detection of PT and arrester temperatures in substations using OrangePi AIpro.
+<img src="../../img/huawei.jpg" width="10%" alt="Huawei">
+
+**Project Leader**: Currently, I am leading a **Huawei-sponsored college student innovation and entrepreneurship project** that focuses on the intelligent recognition and detection of PT and arrester temperatures in substations using OrangePi AIpro, where I am applying advanced AI techniques to enhance operational efficiency.
