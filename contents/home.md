@@ -19,7 +19,7 @@ B.E., Electrical Engineering, Xi'an Jiaotong University, 2022—2026 (expected).
 - National Scholarship, 2023
 
 #### Research Interests
-Power Electronics
+Her current research interests include soft electronics in healthcare monitoring, topology, modeling and control of dc/dc power converters and wide band gap devices.
 
 #### Test Scores
 - TOEFL: 105 (Speaking: 22, Reading: 27, Listening: 30, Writing: 26)
