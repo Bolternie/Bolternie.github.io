@@ -21,4 +21,4 @@ If my work resonates with you, don’t hesitate to:
 Looking forward to exchanging ideas and growing together!
 
 🚀 Happy exploring,  
-Yue Yu
+Yue (Yula) Yu
