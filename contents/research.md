@@ -29,7 +29,7 @@
 
 **Project Leader**: I led a **National college student innovation and entrepreneurship project** that focuses on the intelligent recognition and detection of PT and arrester temperatures in substations using OrangePi AIpro, where I am applying advanced AI techniques to enhance operational efficiency.
 
-**Project Leader**: As a project leader in my junior year, I led a project focused on intelligent video monitoring of traffic targets using the Huawei Atlas 200DK board, which involved both coordination and technical execution.
+**Project Leader**: As a project leader in my junior year, I led a project focused on intelligent video monitoring of traffic targets using the  Atlas 200DK board, which involved both coordination and technical execution.
 
 
 
