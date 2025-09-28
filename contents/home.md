@@ -12,9 +12,7 @@ She is currently pursuing a Bachelor's Degree in Electrical Engineering at the S
 
 B.E., Electrical Engineering, Xi'an Jiaotong University, 2022—2026 (expected).
 
-- GPA: 4.06/4.3
-
-- Weighted Average Score: 93.18 (Top 5% in Major)
+- GPA:  &nbsp;4.05/4.3  &nbsp;&nbsp;&nbsp;&nbsp;  Average Score:&nbsp;93.09/100  &nbsp;&nbsp;&nbsp;&nbsp;  Ranking:&nbsp; 8/412(Top 2%)
 
 - National Scholarship, 2023
 
@@ -22,6 +20,6 @@ B.E., Electrical Engineering, Xi'an Jiaotong University, 2022—2026 (expected).
 Her current research interests include soft electronics in healthcare monitoring, topology, modeling and control of dc/dc power converters and wide band gap devices.
 
 #### Test Scores
-- TOEFL: 105 (Speaking: 22, Reading: 27, Listening: 30, Writing: 26)
-- GRE: 336 + 3.5 (Verbal: 166/170, Quantitative: 170/170)
+- TOEFL: &nbsp; 112 (Speaking: 23, Reading: 30, Listening: 30, Writing: 29)
+- GRE:  &nbsp; 336 + 3.5 (Verbal: 166/170, Quantitative: 170/170)
 
