@@ -2,7 +2,7 @@
 
 Hi there! I’m thrilled you stopped by. This is the GitHub repository for my personal academic homepage, where I share snippets of my research journey, mini-breakthroughs, and ongoing projects.
 
-🌐 Visit my homepage here: [Bolternie.github.io](https://Bolternie.github.io)
+🌐 Visit my homepage here: [Yula.github.io]([https://bolternie.github.io/Yula.github.io/])
 
 I regularly share small research wins, updates, and curious findings—everything from early-stage ideas to polished results. Whether you’re a fellow researcher, student, or just curious about my work, feel free to explore, reach out, or brainstorm with me!
 
