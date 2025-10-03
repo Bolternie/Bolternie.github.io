@@ -1,12 +1,12 @@
-### everyday plog
+### everyday plog (Click to see the full picture!)
 
 <div class="row">
 
   <div class="col-md-6 col-lg-3 text-center mb-4">
-    <div style="overflow: hidden; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease; cursor: pointer;" onclick="try { $('#imageModal').modal('show'); document.getElementById('modalImage').src = '../../static/assets/img/moon.jpg'; document.getElementById('modalCaption').innerText = 'Moon'; } catch(e) { window.open('../../static/assets/img/moon.jpg', '_blank'); }">
-      <img src="../../static/assets/img/moon.jpg" alt="Moon" style="width: 100%; height: 200px; object-fit: cover; border-radius: 15px 15px 0 0;">
+    <div style="overflow: hidden; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease; cursor: pointer;" onclick="try { $('#imageModal').modal('show'); document.getElementById('modalImage').src = '../../static/assets/img/Spring.jpg'; document.getElementById('modalCaption').innerText = 'Spring'; } catch(e) { window.open('../../static/assets/img/Spring.jpg', '_blank'); }">
+      <img src="../../static/assets/img/Spring.jpg" alt="Spring" style="width: 100%; height: 200px; object-fit: cover; border-radius: 15px 15px 0 0;">
     </div>
-    <p style="font-style: italic; color: #555; margin-top: 10px;">Lovely night walk under bright moon</p>
+    <p style="font-style: italic; color: #555; margin-top: 10px;">Lovely spring!</p>
   </div>
 
   <div class="col-md-6 col-lg-3 text-center mb-4">
@@ -27,7 +27,7 @@
     <div style="overflow: hidden; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease; cursor: pointer;" onclick="try { $('#imageModal').modal('show'); document.getElementById('modalImage').src = '../../static/assets/img/yes.jpg'; document.getElementById('modalCaption').innerText = 'Yes'; } catch(e) { window.open('../../static/assets/img/yes.jpg', '_blank'); }">
       <img src="../../static/assets/img/yes.jpg" alt="Yes" style="width: 100%; height: 200px; object-fit: cover; border-radius: 15px 15px 0 0;">
     </div>
-    <p style="font-style: italic; color: #555; margin-top: 10px;">Hiking at Zhongnan Mountain all by myself</p>
+    <p style="font-style: italic; color: #555; margin-top: 10px;">Hiking at Zhongnan Mountain on my own</p>
   </div>
   
 </div>

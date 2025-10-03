@@ -2,7 +2,7 @@
 
 2025.8 First Author: **A Simplified Time-domain Model Based Feedforward Control Strategy for LLC Resonant Converter with Wide Operation Range** *IEEE PEAS 2025* (accepted).
 
-2025.4 First Author: **[Ear-area Soft Electronics for Advanced Healthcare Monitoring.](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202505046)** *Advanced Functional Materials* (IF: 19.0) (accepted).
+2025.4 First Co-Author: **[Ear-area Soft Electronics for Advanced Healthcare Monitoring.](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202505046)** *Advanced Functional Materials* (IF: 19.0). DOI: 10.1002/adfm.202505046
 
 2025.1 Third Author: **[Low-Loss Soft Magnetic Materials and Their Application in Power Conversion: Progress and Perspective.](https://www.mdpi.com/1996-1073/18/3/482)** *Energies* (IF: 3.0). DOI: 10.3390/en18030482
 
