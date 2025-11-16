@@ -25,7 +25,8 @@
 • Developed a simplified time-domain model with high accuracy<br>
 • Developed a feedforward control strategy with fast control and wide output range <br>
 • Achieved 4.78% error in the proposed model vs. 22.37% error of state-of-the-art<br>
-• Achieved 10x faster control speed in the above-resonance region<br><br>
+• Achieved 10x faster control speed in the above-resonance region<br>
+• Available for all four ZVS conditions (i.e., NP, PO, NOP, OPO)<br><br>
 
 **Project Leader**: I led a **National college student innovation and entrepreneurship project** that focuses on the intelligent recognition and detection of PT and arrester temperatures in substations using OrangePi AIpro, where I am applying advanced AI techniques to enhance operational efficiency.
 

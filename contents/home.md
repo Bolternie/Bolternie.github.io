@@ -14,10 +14,12 @@ B.E., Electrical Engineering, Xi'an Jiaotong University, 2022—2026 (expected).
 
 - GPA:  &nbsp;4.05/4.3  &nbsp;&nbsp;&nbsp;&nbsp;  Average Score:&nbsp;93.09/100  &nbsp;&nbsp;&nbsp;&nbsp;  Ranking:&nbsp; 8/412(Top 2%)
 
-- National Scholarship, 2023
+- National Scholarship, 2023 (Top 1%)
+
+- Baosteel Scholarship, 2025 (Only 7 recipients in Xi'an Jiaotong University)
 
 #### Research Interests
-Her current research interests include topology, modeling and control of dc/dc power converters and soft electronics in healthcare monitoring.
+Her current research interests include design, modeling and control of dc/dc converters and soft electronics in healthcare monitoring.
 
 #### Test Scores
 - TOEFL: &nbsp; 112 (Speaking: 23, Reading: 30, Listening: 30, Writing: 29)

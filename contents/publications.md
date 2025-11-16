@@ -1,4 +1,4 @@
-2025.8 First Author: **An Accurate and Simplified On-line Time-domain Model Based Feedforward Control for LLC Resonant Converter** *IEEE Transactions on Power Electronics* (under review).
+2025.8 First Author: **An Accurate and Simplified On-line Time-domain Model Based Feedforward Control for LLC Resonant Converter** *IEEE Transactions on Circuits and Systems II: Express Briefs* (accepted).
 
 2025.8 First Author: **A Simplified Time-domain Model Based Feedforward Control Strategy for LLC Resonant Converter with Wide Operation Range** *IEEE PEAS 2025* (accepted).
 

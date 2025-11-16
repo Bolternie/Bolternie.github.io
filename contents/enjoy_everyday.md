@@ -27,7 +27,7 @@
     <div style="overflow: hidden; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease; cursor: pointer;" onclick="try { $('#imageModal').modal('show'); document.getElementById('modalImage').src = '../../static/assets/img/yes.jpg'; document.getElementById('modalCaption').innerText = 'Yes'; } catch(e) { window.open('../../static/assets/img/yes.jpg', '_blank'); }">
       <img src="../../static/assets/img/yes.jpg" alt="Yes" style="width: 100%; height: 200px; object-fit: cover; border-radius: 15px 15px 0 0;">
     </div>
-    <p style="font-style: italic; color: #555; margin-top: 10px;">Hiking at Zhongnan Mountain on my own</p>
+    <p style="font-style: italic; color: #555; margin-top: 10px;">Hiking at Zhongnan Mountain</p>
   </div>
   
 </div>
