@@ -29,6 +29,27 @@
     </div>
     <p style="font-style: italic; color: #555; margin-top: 10px;">Hiking at Zhongnan Mountain</p>
   </div>
+
+  <div class="col-md-6 col-lg-3 text-center mb-4">
+    <div style="overflow: hidden; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease; cursor: pointer;" onclick="try { $('#imageModal').modal('show'); document.getElementById('modalImage').src = '../../static/assets/img/pre.jpg'; document.getElementById('modalCaption').innerText = 'IEEE PEAS 2025'; } catch(e) { window.open('../../static/assets/img/pre.jpg', '_blank'); }">
+      <img src="../../static/assets/img/pre.jpg" alt="Yes" style="width: 100%; height: 200px; object-fit: cover; border-radius: 15px 15px 0 0;">
+    </div>
+    <p style="font-style: italic; color: #555; margin-top: 10px;">Oral presentation at IEEE PEAS 2025, Shenzhen</p>
+  </div>
+
+  <div class="col-md-6 col-lg-3 text-center mb-4">
+    <div style="overflow: hidden; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease; cursor: pointer;" onclick="try { $('#imageModal').modal('show'); document.getElementById('modalImage').src = '../../static/assets/img/with_Dushan.jpg'; document.getElementById('modalCaption').innerText = 'Dushan'; } catch(e) { window.open('../../static/assets/img/with_Dushan.jpg', '_blank'); }">
+      <img src="../../static/assets/img/with_Dushan.jpg" alt="Yes" style="width: 100%; height: 200px; object-fit: cover; border-radius: 15px 15px 0 0;">
+    </div>
+    <p style="font-style: italic; color: #555; margin-top: 10px;">Nice talk with Prof. Boroyevich at IEEE PEAS 2025</p>
+  </div>
+
+  <div class="col-md-6 col-lg-3 text-center mb-4">
+    <div style="overflow: hidden; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease; cursor: pointer;" onclick="try { $('#imageModal').modal('show'); document.getElementById('modalImage').src = '../../static/assets/img/with_Fred_Lee.jpg'; document.getElementById('modalCaption').innerText = 'Fred_Lee'; } catch(e) { window.open('../../static/assets/img/with_Fred_Lee.jpg', '_blank'); }">
+      <img src="../../static/assets/img/with_Dushan.jpg" alt="Yes" style="width: 100%; height: 200px; object-fit: cover; border-radius: 15px 15px 0 0;">
+    </div>
+    <p style="font-style: italic; color: #555; margin-top: 10px;">Group shot with Prof. Lee at IEEE PEAS 2025</p>
+  </div>
   
 </div>
 

@@ -12,9 +12,11 @@ She is currently pursuing a Bachelor's Degree in Electrical Engineering at the S
 
 B.E., Electrical Engineering, Xi'an Jiaotong University, 2022—2026 (expected).
 
-- GPA:  &nbsp;4.05/4.3  &nbsp;&nbsp;&nbsp;&nbsp;  Average Score:&nbsp;93.09/100  &nbsp;&nbsp;&nbsp;&nbsp;  Ranking:&nbsp; 8/412(Top 2%)
+- GPA:  &nbsp;4.06/4.3  &nbsp;&nbsp;&nbsp;&nbsp;  Average Score:&nbsp;93.15/100  &nbsp;&nbsp;&nbsp;&nbsp;  Ranking:&nbsp; 8/412(Top 2%)
 
 - National Scholarship, 2023 (Top 1%)
+
+- Second Prize of Ruwen Wang Scholarship (Top 5%)
 
 - Baosteel Scholarship, 2025 (Only 7 recipients in Xi'an Jiaotong University)
 
