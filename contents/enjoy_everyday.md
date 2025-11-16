@@ -50,6 +50,13 @@
     </div>
     <p style="font-style: italic; color: #555; margin-top: 10px;">Group shot with Prof. Lee at IEEE PEAS 2025</p>
   </div>
+
+  <div class="col-md-6 col-lg-3 text-center mb-4">
+    <div style="overflow: hidden; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease; cursor: pointer;" onclick="try { $('#imageModal').modal('show'); document.getElementById('modalImage').src = '../../static/assets/img/At_Weihai.jpg'; document.getElementById('modalCaption').innerText = 'Weihai Travel'; } catch(e) { window.open('../../static/assets/img/At_Weihai.jpg', '_blank'); }">
+      <img src="../../static/assets/img/At_Weihai.jpg" alt="Yes" style="width: 100%; height: 200px; object-fit: cover; border-radius: 15px 15px 0 0;">
+    </div>
+    <p style="font-style: italic; color: #555; margin-top: 10px;">Nice trip in Weihai!</p>
+  </div>
   
 </div>
 
