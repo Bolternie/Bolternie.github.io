@@ -15,7 +15,7 @@
 
 ### Junior Year
 
-<img src="../../static/assets/img/yangji.png" width = "20%" alt="lab output">
+<img src="../../static/assets/img/exp.png" width = "20%" alt="lab output">
 
 <!-- **Independent research**: I focused on enhancing power converter performance by developing **an advanced LLC control strategy**. My work involved creating a simplified, high-accuracy time-domain model. I also developed a novel feedforward control strategy that demonstrated a significantly faster response. -->
 <!-- 两个空格也能换行 -->
